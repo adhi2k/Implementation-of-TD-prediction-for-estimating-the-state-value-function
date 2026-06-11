@@ -1,5 +1,6 @@
 # Ex-7: TD Prediction for Estimating the State-Value Function using FrozenLake Environment
-
+### Name : Adhithya K
+### reg no : 2305002001
 ## Aim:
 
 To implement the Temporal Difference (TD) Prediction algorithm for estimating the state-value function in the FrozenLake environment using Reinforcement Learning.
